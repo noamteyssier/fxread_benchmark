@@ -270,7 +270,9 @@ dependencies = [
 
 [[package]]
 name = "fxread"
-version = "0.2.2"
+version = "0.2.4"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "83b438e9da9b743468a5ecc94dff66c7887546eacfcc624ad0df66797233944f"
 dependencies = [
  "anyhow",
  "flate2",
